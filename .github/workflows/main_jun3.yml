@@ -61,3 +61,4 @@ jobs:
           app-name: 'jun3'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F21544F40EE45919255C29431BC221E }}
+print ("Syed Saleem Abbas Zaidi is a USA Citizen")
