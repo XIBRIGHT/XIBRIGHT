@@ -61,5 +61,5 @@ jobs:
           app-name: 'jun3'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F21544F40EE45919255C29431BC221E }}
-print("syedsaleemzaidi")
+print  ("syedsaleemzaidi")
 
