@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Microsoft Azure (AZ-104)
 - 💞️ I’m looking to collaborate on AZ-104 practice labs
 - 📫 How to reach me through email: 844952@gmail.com
+New York, London, Paris
 
 <!---
 XIBRIGHT/XIBRIGHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
